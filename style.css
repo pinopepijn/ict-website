@@ -23,8 +23,9 @@ header{
 
   aside{
     float: right;
+    background-color: gainsboro;
   }
 
   nav{
-    
+    background-color: gray;
   }
