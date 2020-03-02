@@ -5,13 +5,14 @@ header{
   margin-right: 100px;
  font-size: 50px;
  text-align: center;
+ 
   }
 
   article{ 
     width:60vw;
     margin: 0 auto;
     background-color: rgb(15, 207, 15);
-     
+  
   }
 
   footer{
@@ -35,7 +36,7 @@ header{
 	color:black;
 	text-decoration:none;
 	padding: 10px 10px;
-	position: relative;
+	position: unset;
 	top:10px;
 	transition: bottom 300ms ease;
   
