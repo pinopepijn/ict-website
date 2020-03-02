@@ -10,7 +10,8 @@ header{
   article{ 
     width:60vw;
     margin: 0 auto;
-    background-color: rgb(15, 207, 15); 
+    background-color: rgb(15, 207, 15);
+     
   }
 
   footer{
@@ -28,4 +29,15 @@ header{
 
   nav{
     background-color: gray;
+    display:inline-block;
+	border-radius: 5px 5px 5px 5px;
+	border-bottom: 0px solid white;
+	color:black;
+	text-decoration:none;
+	padding: 10px 10px;
+	position: relative;
+	top:10px;
+	transition: bottom 300ms ease;
+  
   }
+ 
