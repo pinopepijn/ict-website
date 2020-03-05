@@ -27,10 +27,13 @@ header{
     float: right;
     background-color: gainsboro;
   }
-
-  nav{
-    background-color:black;
-    display:inline-block;
+nav {
+  margin-left:100px;
+  margin-right:0px;
+}
+  nav a {
+  background-color:black;
+  display:inline-block;
 	border-radius: 10px 10px 10px 10px;
 	border-bottom: 5px solid white;
   border-top: 5px solid white;
@@ -40,8 +43,6 @@ header{
 	position: unset;
 	top:10px;
 	transition: bottom 300ms ease;
-  margin-left:100px;
- 
-  
-  }
+  margin-left:0px;
+ }
  
