@@ -29,16 +29,19 @@ header{
   }
 
   nav{
-    background-color: gray;
+    background-color:black;
     display:inline-block;
-	border-radius: 5px 5px 5px 5px;
-	border-bottom: 0px solid white;
-	color:black;
+	border-radius: 10px 10px 10px 10px;
+	border-bottom: 5px solid white;
+  border-top: 5px solid white;
+	color:white;
 	text-decoration:none;
 	padding: 10px 10px;
 	position: unset;
 	top:10px;
 	transition: bottom 300ms ease;
+  margin-left:100px;
+ 
   
   }
  
