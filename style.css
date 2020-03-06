@@ -1,11 +1,12 @@
 header{
   height: 100px;
   background-color: rgba(250, 168, 37, 0.849);
-  margin-left: 100px;
-  margin-right: 100px;
+  width: 60vw;
  font-size: 50px;
  text-align: center;
-  }
+ margin: 0px auto;
+ margin-top: 50px;
+   }
 
   article{ 
     width:60vw;
@@ -17,9 +18,10 @@ header{
   footer{
     
     bottom:10px;
-    width:100%;
+    width:60vw;
     height:100px;
     background-color: rgb(253, 253, 17);
+    margin: 0px auto;
   }
 
   aside{
