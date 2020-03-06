@@ -1,17 +1,18 @@
 header{
   height: 100px;
-  background-color: rgba(250, 168, 37, 0.849);
+  background-color: rgb(199, 199, 199);
   width: 60vw;
  font-size: 50px;
  text-align: center;
  margin: 0px auto;
  margin-top: 50px;
+ border-radius: 10px 10px 0px 0px;
    }
 
   article{ 
     width:60vw;
     margin: 0 auto;
-    background-color: rgb(15, 207, 15);
+    background-color: rgb(140, 197, 233);
   
   }
 
@@ -20,8 +21,9 @@ header{
     bottom:10px;
     width:60vw;
     height:100px;
-    background-color: rgb(253, 253, 17);
+    background-color: rgb(199, 199, 199);
     margin: 0px auto;
+    border-radius: 0px 0px 10px 10px;
   }
 
   aside{
@@ -29,8 +31,11 @@ header{
     background-color: gainsboro;
   }
 nav {
-  margin-left:0px;
+  margin-left: 0px;
   margin-right:0px;
+  background-color: black;
+  margin: 0px auto;
+  width: 60vw;
 }
   nav a {
   background-color:black;
@@ -48,6 +53,8 @@ nav {
   margin-bottom: 1px;
   margin-top: 1px;
   top: 0px;
+  border: solid white;
+
   }
  
  nav a:hover {
@@ -62,3 +69,5 @@ nav {
     padding:0;
     text-align: center;
 }
+ 
+ 
