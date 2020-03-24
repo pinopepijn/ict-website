@@ -26,10 +26,6 @@ header{
     border-radius: 0px 0px 10px 10px;
   }
 
-  aside{
-    float: right;
-    background-color: gainsboro;
-  }
 nav {
   margin-left: 0px;
   margin-right:0px;
@@ -64,10 +60,10 @@ nav {
  }
 
  ul {
-    list-style-type:none;
-    margin:0;
+    list-style-type: circle;
     padding:0;
     text-align: center;
+    margin: 0 auto;
 }
 
 img {
